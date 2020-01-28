@@ -1,0 +1,17 @@
+{
+  "name": "figma-plugin-manifest",
+  "version": "1.0.0",
+  "description": "JSON Schema for Figma Plugin Manifest files",
+  "files": [
+    "schema.json"
+  ],
+  "keywords": [
+    "figma",
+    "json",
+    "schema",
+    "plugin",
+    "manifest"
+  ],
+  "author": "Figmatic",
+  "license": "MIT"
+}
