@@ -76,11 +76,11 @@
               "menu": {
                 "$ref": "#/definitions/ManifestMenuItem"
               }
-            }
+            },
+            "required": ["name", "menu"]
           }
         ]
-      },
-      "uniqueItems": true
+      }
     }
   }
 }
