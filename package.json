@@ -2,6 +2,7 @@
   "name": "figma-plugin-manifest",
   "version": "1.0.1",
   "description": "JSON Schema for Figma Plugin Manifest files",
+  "unpkg": "schema.json",
   "files": [
     "schema.json"
   ],
